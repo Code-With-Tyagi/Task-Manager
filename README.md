@@ -7,7 +7,7 @@ This project allows users to create, update, delete, and manage tasks with real-
 
 ## 🚀 Live Project
 
-- **Frontend (Vercel):** https://your-frontend-link.vercel.app  
+- **Frontend (Vercel):** [https://your-frontend-link.vercel.app  ](https://task-manager-mu-five-48.vercel.app/)
 - **Backend (Render):** https://task-manager-1-w5e9.onrender.com  
 
 ---
