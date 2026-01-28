@@ -14,7 +14,7 @@ function Task() {
   const [titleError, setTitleError] = useState("");
   const [descError, setDescError] = useState("");
 
-  const URL = "http://localhost:5000/api/tasks";
+  const URL = `${import.meta.env.VITE_API_URL}/tasks`;
 
   useEffect(() => {
     getTasks();
